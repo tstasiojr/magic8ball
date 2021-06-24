@@ -18,7 +18,7 @@ const eightBall = document.createElement('img');
 
 answerBox.id = 'answers';
 eightBall.src = 'img/magic8ball_start.png';
-eightBall.width = '250';
+eightBall.width = '400';
 answerBox.appendChild(eightBall);
 document.body.appendChild(answerBox);
 
